@@ -1,3 +1,66 @@
 .homepage-colour {
-    background-color: #100F0F;
+    background-color: #302e2e;
+}
+
+.nav-white {
+    color:#F0E9E9;
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 16px;
+    margin-bottom: 10%;
+    padding-left: 80px;
+    padding-right: 40px;
+    padding-top: 40px;
+}
+
+.hero {
+    color: #F0E9E9;
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 70px;
+    font-weight: 700;
+    padding-left: 10%;
+    padding-right: 18%;
+    padding-top: 5%;
+}
+
+@media screen and (max-width:1064px) {
+    .hero {
+        display: none;
+    }
+}
+
+.contact-content {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.contact-information {
+    color: #F0E9E9;
+    font-family: 'Roboto',
+    sans-serif;
+}
+
+.title {
+    margin-bottom: 5px;
+    font-size: 16px;
+    color: #847B7B;
+    font-weight: 500;
+}
+
+.description {
+    margin-bottom: 70px;
+    font-size: 20px;
+    color: #F0E9E9;
+    font-weight: 700;
+}
+
+.description-long {
+    color: #F0E9E9;
+    font-size: 16px;
+    padding-right: 20px;
+}
+
+a {
+    color : #F0E9E9;
 }

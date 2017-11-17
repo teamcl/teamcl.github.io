@@ -30,4 +30,8 @@ a {
     color:#F0E9E9;
 }
 
+.slideIn {
+    transition-delay: 10s;
+}
+
 

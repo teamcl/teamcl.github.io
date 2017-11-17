@@ -21,12 +21,10 @@
     sans-serif;
     font-size: 70px;
     font-weight: 700;
-    padding-left: 10%;
-    padding-right: 18%;
-    padding-top: 5%;
+    padding-right: 10%;
 }
 
-@media screen and (max-width:1064px) {
+@media screen and (max-width:830px) {
     .hero {
         display: none;
     }
@@ -41,6 +39,7 @@
     color: #F0E9E9;
     font-family: 'Roboto',
     sans-serif;
+    padding-top: 30px;
 }
 
 .title {

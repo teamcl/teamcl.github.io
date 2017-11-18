@@ -1,3 +1,7 @@
+.product-colour {
+    background-color: #F0E9E9;
+}
+
 .nav-black {
     color: #302e2e;
     font-family: 'Roboto', sans-serif;
@@ -8,4 +12,33 @@
 
 .logo {
     margin-left: 5%;
+}
+
+a {
+    color: #F0E9E9;
+}
+
+.heading {
+    color: #302e2e;
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.tag {
+    color: #302e2e;
+    font-family: 'Roboto',
+    sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+.description {
+    color: #302e2e;
+    font-family: 'Roboto',
+    sans-serif;
+    font-style: italic;
+    font-size: 14px;
 }

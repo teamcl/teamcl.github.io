@@ -1,5 +1,5 @@
 .product-colour {
-    background-color: #F0E9E9;
+    background-color: #fffafa;
 }
 
 .nav-black {
@@ -11,7 +11,7 @@
 }
 
 .logo {
-    margin-left: 5%;
+    margin-left: 3%;
 }
 
 a {
@@ -41,4 +41,12 @@ a {
     sans-serif;
     font-style: italic;
     font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}
+
+.projectimg {
+    padding-left: 20px;
+    padding-right: 20px;
 }

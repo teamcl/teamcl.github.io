@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+.homepage-colour {
+    background-color:#302e2e;
+}
+
+h1 {
+    color:#F0E9E9;
+    font-family: 'Abril Fatface',
+    cursive;
+    font-size: 33px;
+    padding-top: 7%;
+    padding-bottom: 15%;
+}
+
+.home-navigation {
+    padding-left: 10%;
+    padding-right: 10%;
+    color: #F0E9E9;
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+a {
+    text-decoration: none;
+    color:#F0E9E9;
+}
+
+.slideIn {
+    transition-delay: 10s;
+}
+
+

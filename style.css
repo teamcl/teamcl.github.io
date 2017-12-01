@@ -1,9 +1,17 @@
-* {
-    box-sizing: border-box;
-}
-
 .homepage-colour {
     background-color:#302e2e;
+}
+
+.nav-white {
+    color: #302e2e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    max-width: 100%;
+    margin-right: 5%;
+}
+
+.logo {
+    margin-left: 5%;
 }
 
 h1 {
@@ -11,18 +19,6 @@ h1 {
     font-family: 'Abril Fatface',
     cursive;
     font-size: 33px;
-    padding-top: 7%;
-    padding-bottom: 15%;
-}
-
-.home-navigation {
-    padding-left: 10%;
-    padding-right: 10%;
-    color: #F0E9E9;
-    font-family: 'Roboto',
-    sans-serif;
-    font-size: 17px;
-    font-weight: 500;
 }
 
 a {
@@ -30,8 +26,6 @@ a {
     color:#F0E9E9;
 }
 
-.slideIn {
-    transition-delay: 10s;
-}
+
 
 

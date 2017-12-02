@@ -1,5 +1,5 @@
 .homepage-colour {
-    background-color:#302e2e;
+    background-color: #302e2e;
 }
 
 .nav-white-home {
@@ -16,15 +16,14 @@
 }
 
 h1 {
-    color:#F0E9E9;
-    font-family: 'Abril Fatface',
-    cursive;
+    color: #F0E9E9;
+    font-family: 'Abril Fatface', cursive;
     font-size: 33px;
 }
 
 a {
     text-decoration: none;
-    color:#F0E9E9;
+    color: #F0E9E9;
 }
 
 @media screen and (min-width:900px) {
@@ -34,12 +33,73 @@ a {
         margin-left: 20px;
         margin-right: 20px;
     }
-
     .nav-white-home {
         margin-bottom: 80px;
     }
 }
 
+#product1hover {
+    position: relative;
+}
+#product1hover:hover .overlay {
+    opacity: 0.8;
+}
 
+#product2hover {
+    position: relative;
+}
 
+#product2hover:hover .overlay {
+    opacity: 0.8;
+}
 
+#product3hover {
+    position: relative;
+}
+
+#product3hover:hover .overlay {
+    opacity: 0.8;
+}
+
+#product4hover {
+    position: relative;
+}
+
+#product4hover:hover .overlay {
+    opacity: 0.8;
+}
+
+#product5hover {
+    position: relative;
+}
+
+#product5hover:hover .overlay {
+    opacity: 0.8;
+}
+
+#product6hover {
+    position: relative;
+}
+
+#product6hover:hover .overlay {
+    opacity: 0.8;
+}
+
+.overlay {
+    position: absolute;
+    height: auto;
+    width: auto;
+    opacity: 0;
+}
+
+p {
+    color: #F0E9E9;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+    top: 45%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}

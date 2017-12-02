@@ -48,7 +48,6 @@ a {
 #product2hover {
     position: relative;
 }
-
 #product2hover:hover .overlay {
     opacity: 0.8;
 }
@@ -56,7 +55,6 @@ a {
 #product3hover {
     position: relative;
 }
-
 #product3hover:hover .overlay {
     opacity: 0.8;
 }
@@ -64,7 +62,6 @@ a {
 #product4hover {
     position: relative;
 }
-
 #product4hover:hover .overlay {
     opacity: 0.8;
 }
@@ -72,7 +69,6 @@ a {
 #product5hover {
     position: relative;
 }
-
 #product5hover:hover .overlay {
     opacity: 0.8;
 }
@@ -80,7 +76,6 @@ a {
 #product6hover {
     position: relative;
 }
-
 #product6hover:hover .overlay {
     opacity: 0.8;
 }

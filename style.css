@@ -2,12 +2,13 @@
     background-color:#302e2e;
 }
 
-.nav-white {
+.nav-white-home {
     color: #302e2e;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     max-width: 100%;
     margin-right: 5%;
+    margin-bottom: 20px;
 }
 
 .logo {
@@ -24,6 +25,19 @@ h1 {
 a {
     text-decoration: none;
     color:#F0E9E9;
+}
+
+@media screen and (min-width:900px) {
+    .work {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .nav-white-home {
+        margin-bottom: 80px;
+    }
 }
 
 

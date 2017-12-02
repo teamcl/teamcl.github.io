@@ -18,6 +18,13 @@ a {
     color: #F0E9E9;
 }
 
+.link {
+    color: #302e2e;
+    font-family: 'Roboto',
+    sans-serif;
+    font-weight: 700
+}
+
 .heading {
     color: #302e2e;
     font-family: 'Roboto',

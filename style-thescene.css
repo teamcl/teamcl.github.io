@@ -46,9 +46,11 @@ a {
     margin-bottom: 30px;
 }
 
-.projectimg {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
+@media screen and (min-width:900px) {
+    .projectimg {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }

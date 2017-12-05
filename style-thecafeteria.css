@@ -50,17 +50,18 @@ a {
     font-size: 14px;
 }
 
-.projectimg {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-}
 
-.projectimg-hero {
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 50px;
+@media screen and (min-width:900px) {
+    .projectimg-hero {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .projectimg {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }

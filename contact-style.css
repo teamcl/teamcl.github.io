@@ -3,9 +3,8 @@
 }
 
 .nav-white {
-    color:#F0E9E9;
-    font-family: 'Roboto',
-    sans-serif;
+    color: #F0E9E9;
+    font-family: 'Roboto', sans-serif;
     font-size: 16px;
     max-width: 100%;
     margin-right: 5%;
@@ -17,11 +16,16 @@
 
 .hero {
     color: #F0E9E9;
-    font-family: 'Roboto',
-    sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 70px;
     font-weight: 700;
     padding-right: 10%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
 }
 
 @media screen and (max-width:830px) {
@@ -37,8 +41,7 @@
 
 .contact-information {
     color: #F0E9E9;
-    font-family: 'Roboto',
-    sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding-top: 30px;
 }
 
@@ -63,5 +66,9 @@
 }
 
 a {
-    color : #F0E9E9;
+    color: #F0E9E9;
+}
+
+.invite {
+    position: relative
 }

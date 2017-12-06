@@ -1,0 +1,80 @@
+.product-colour {
+    background-color: #fffafa;
+}
+
+.nav-black {
+    color: #302e2e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    max-width: 100%;
+    margin-right: 5%;
+}
+
+.logo {
+    margin-left: 3%;
+}
+
+a {
+    color: #F0E9E9;
+}
+
+.heading {
+    color: #302e2e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.tag {
+    color: #302e2e;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.description {
+    color: #302e2e;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 14px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}
+
+.description-body {
+    color: #302e2e;
+    font-family: 'Roboto',
+    sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.title {
+    color: #302e2e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    border-left: 5px solid #302e2e;
+    padding-left: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+@media screen and (min-width:900px) {
+    .projectimg-hero {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 120px;
+    }
+    .projectimg {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 70px;
+    }
+}

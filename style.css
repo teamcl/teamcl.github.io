@@ -43,6 +43,8 @@ a {
 }
 #product1hover:hover .overlay {
     opacity: 0.8;
+    display: inline-block;
+    background-color: black;
 }
 
 #product2hover {

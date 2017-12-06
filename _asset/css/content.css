@@ -90,9 +90,10 @@ h5 {
     font-family: 'Roboto';
     font-size: 13px;
     font-weight: 301;
-    padding-left: 170px;
+    padding-left: 10px;
     padding-right: 10px;
     padding-top: 40px;
+    margin-left: 160px;
 }
 
 .background {
@@ -127,4 +128,18 @@ h5 {
 
 .finalpic {
     padding-left: 60px;
+}
+
+.washbig {
+    padding-left: 110px;
+}
+.external {
+padding-left: 200px;
+}
+.internal {
+    padding-left: 160px;
+    padding-bottom: 120px;
+}
+.greenrope{
+    padding-top: 230px;
 }

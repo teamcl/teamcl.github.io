@@ -171,3 +171,8 @@ a {
 .hvrbox.active .hvrbox-text_mobile {
     display: block;
 }
+
+a {
+    text-decoration: none;
+    color: #F0E9E9;
+}

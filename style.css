@@ -26,6 +26,11 @@ a {
     color: #F0E9E9;
 }
 
+a:hover {
+    text-decoration: none;
+    color: #F0E9E9;
+}
+
 @media screen and (min-width:900px) {
     .work {
         padding-left: 20px;
